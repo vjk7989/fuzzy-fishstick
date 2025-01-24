@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
+  <g fill="#ff0044">
+    <path d="M40 20c0 0-15 10-20 30c-5 20 0 30 0 30l40-50c0 0 5-10 15-10s15 10 15 10l40 50c0 0 5-10 0-30c-5-20-20-30-20-30"/>
+    <text x="120" y="70" style="font-family: Arial; font-size: 40px; font-weight: bold;">Aviator</text>
+    <path d="M120 80h160" style="stroke: #ff0044; stroke-width: 4;"/>
+  </g>
+</svg>
